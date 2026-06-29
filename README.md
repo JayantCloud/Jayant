@@ -14,7 +14,7 @@
 
 ### Education
 - **Masters in Data Science** – Chandigarh University
-- **MSc Mathematics** – *(Your University Name)*
+- **MSc Mathematics** – 
 
 ---
 
