@@ -9,7 +9,7 @@
 - **SQL for Data Science** – UC Davis
 
 ### Actuarial Progression (IAI)
-- **CS1** – Actuarial Statistics *(Result awaited)*
+- **CS1** – Actuarial Statistics *(Completed)*
 - **CB1** – Business Finance *( Completed)*
 
 ### Education
